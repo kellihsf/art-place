@@ -3,5 +3,7 @@ function setup() {
 }
 
 function draw() {
+  fill(color("orange"))
   rect(100, 100, 100, 100);
+
 }
